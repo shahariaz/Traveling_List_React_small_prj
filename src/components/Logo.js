@@ -1,7 +1,7 @@
 const Logo = () => {
   return (
     <div>
-      <h1>I am from logo</h1>
+      <h1>🌴Far Away🎒</h1>
     </div>
   );
 };
